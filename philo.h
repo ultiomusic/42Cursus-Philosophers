@@ -7,7 +7,7 @@
 # include <stdlib.h>
 # include <pthread.h>
 # include <sys/time.h>
-# include "../includes/philo.h"
+# include "philo.h"
 
 struct	s_data;
 

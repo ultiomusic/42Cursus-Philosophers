@@ -1,4 +1,4 @@
-#include "../includes/philo.h"
+#include "philo.h"
 
 static void	ft_taking_left_forks(t_philo *philo)
 {

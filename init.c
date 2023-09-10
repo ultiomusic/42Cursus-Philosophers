@@ -1,4 +1,4 @@
-#include "../includes/philo.h"
+#include "philo.h"
 
 int	ft_init_args(t_data *data, int argc, char **argv)
 {

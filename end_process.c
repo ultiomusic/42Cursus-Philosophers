@@ -1,4 +1,4 @@
-#include "../includes/philo.h"
+#include "philo.h"
 
 void	ft_end_threads(t_data *data)
 {

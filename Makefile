@@ -1,15 +1,15 @@
 NAME = philo
 
-INC 	= includes/philo.h
+INC 	= philo.h
 
-SRC		=	src/philo.c\
-			src/init.c\
-			src/utils.c\
-			src/setter_getter.c\
-			src/setter_getter2.c\
-			src/start_process.c\
-			src/end_process.c\
-			src/actions.c\
+SRC		=	philo.c\
+			init.c\
+			utils.c\
+			setter_getter.c\
+			setter_getter2.c\
+			start_process.c\
+			end_process.c\
+			actions.c\
 
 CC 		= gcc
 
